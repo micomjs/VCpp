@@ -1,0 +1,65 @@
+#include <iostream>
+#include <conio.h>
+#include <chrono>
+
+int main() {
+    bool capturingInput = true; // 입력 캡처 모드
+    std::chrono::steady_clock::time_point startTime;
+    bool inputStarted = false;
+
+    while (capturingInput) {
+        if (!_kbhit()) {
+            continue; // 키 입력 대기
+        }
+
+        char input = _getch(); // 키보드 입력을 받음
+
+        if (input == 27) { // ESC 키를 누르면 종료
+            capturingInput = false;
+            break;
+        }
+
+        if (!inputStarted) {
+            inputStarted = true;
+            startTime = std::chrono::steady_clock::now();
+        }
+
+        // 현재 시간과 시작 시간 사이의 시간 간격을 계산
+        auto currentTime = std::chrono::steady_clock::now();
+        auto elapsedTime = std::chrono::duration_cast<std::chrono::milliseconds>(currentTime - startTime);
+
+        if (elapsedTime.count() >= 500) { // 0.5초(500ms) 이상 입력을 받은 경우
+            std::cout << "아도겐!" << std::endl;
+            inputStarted = false; // 입력 재시작
+        }
+    }
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#define UP 72
+#define DOWN 80
+#define RIGHT 77
+#define LEFT 75

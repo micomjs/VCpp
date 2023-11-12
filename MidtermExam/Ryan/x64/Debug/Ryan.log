@@ -1,0 +1,52 @@
+﻿  Ryan.cpp
+  yuhanCG.cpp
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(135,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(135,34): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(141,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(141,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(141,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(147,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(147,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(147,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(147,23): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(154,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(154,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(155,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(155,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(156,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(156,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(157,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(157,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(160,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(160,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(161,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(161,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(162,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(162,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(163,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(163,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(166,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(166,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(167,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(167,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(168,54): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(168,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(169,52): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(169,42): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(175,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(175,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(175,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(175,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(178,109): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(178,99): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(178,53): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(178,43): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(185,19): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(186,20): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(187,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(188,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(191,22): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\과제제출\Bonobono\Ryan\yuhanCG.cpp(192,23): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\USER\Desktop\과제제출\Bonobono\Bonobono\x64\Debug\Ryan.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Ryan.vcxproj -> C:\Users\USER\Desktop\과제제출\Bonobono\Bonobono\x64\Debug\Ryan.exe
