@@ -125,6 +125,22 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam) 
             endPoint.y = HIWORD(lParam);
             InvalidateRect(hWnd, NULL, TRUE);
         }
+
+        if (wParam & MK_RBUTTON && isCircle) {
+            endPoint.x = currentX;
+            endPoint.y = currentY;
+
+            // 마우스 이동 방향 감지
+            int deltaX = endPoint.x - startPoint.x;
+            int deltaY = endPoint.y - startPoint.y;
+
+            // 원의 크기를 동적으로 조절
+            int radius = static_cast<int>(sqrt(deltaX * deltaX + deltaY * deltaY));
+            endPoint.x = startPoint.x + radius;
+            endPoint.y = startPoint.y + radius;
+
+            InvalidateRect(hWnd, NULL, TRUE);
+        }
         break;
     }
 
